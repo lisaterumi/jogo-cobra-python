@@ -13,3 +13,5 @@ Quando crianças, adorávamos jogar este jogo, onde controlamos uma cobra que co
 Aqui veremos uma implementação simples em Python deste jogo, com ```Pygame```.
 
 [Acesse o notebook](https://github.com/lisaterumi/jogo-cobra-python/blob/main/jogo-cobra-python.ipynb)
+
+Adaptado de: https://www.edureka.co/blog/snake-game-with-pygame/
